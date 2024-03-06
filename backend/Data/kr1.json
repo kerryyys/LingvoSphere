@@ -1,0 +1,102 @@
+{
+    "courseId": 7,
+    "language": "Korean",
+    "courseName": "Intermediate Korean",
+    "chapters": [
+        {
+            "chapterId": "CH1",
+            "title": "Advanced Hangul",
+            "wordsAndDefinitions": {
+                "한국 (hanguk)": "Korea",
+                "언어 (eoneo)": "language",
+                "문화 (munhwa)": "culture",
+                "역사 (yeoksa)": "history",
+                "전통 (jeontong)": "tradition"
+            }
+        },
+        {
+            "chapterId": "CH2",
+            "title": "Advanced Expressions",
+            "wordsAndDefinitions": {
+                "다른 (dareun)": "different",
+                "중요한 (jungyohan)": "important",
+                "매우 (maeu)": "very",
+                "실제로 (siljero)": "actually",
+                "또한 (ttohan)": "also"
+            }
+        },
+        {
+            "chapterId": "CH3",
+            "title": "Numbers and Counters",
+            "wordsAndDefinitions": {
+                "일곱 (ilgop)": "seven",
+                "여덟 (yeodeol)": "eight",
+                "번 (beon)": "time (counter)",
+                "장 (jang)": "counter for sheets of paper",
+                "대 (dae)": "counter for machines, vehicles, etc."
+            }
+        },
+        {
+            "chapterId": "CH4",
+            "title": "Advanced Food Vocabulary",
+            "wordsAndDefinitions": {
+                "전복죽 (jeonbokjuk)": "abalone porridge",
+                "육개장 (yukgaejang)": "spicy beef soup",
+                "해물파전 (haemul pajeon)": "seafood and green onion pancake",
+                "쌈장 (ssamjang)": "thick, spicy paste used with food wrapped in a leaf"
+            }
+        }
+    ],
+    "exams": [
+        {
+            "examId": "EX1",
+            "questions": [
+                {
+                    "questionText": "Translate 'history' into Korean.",
+                    "choices": [
+                        "한국 (hanguk)",
+                        "언어 (eoneo)",
+                        "문화 (munhwa)",
+                        "역사 (yeoksa)"
+                    ],
+                    "answer": "역사 (yeoksa)"
+                },
+                {
+                    "questionText": "What is the Korean word for 'actually'?",
+                    "choices": [
+                        "다른 (dareun)",
+                        "중요한 (jungyohan)",
+                        "매우 (maeu)",
+                        "실제로 (siljero)"
+                    ],
+                    "answer": "실제로 (siljero)"
+                }
+            ]
+        },
+        {
+            "examId": "EX2",
+            "questions": [
+                {
+                    "questionText": "What does '일곱' mean?",
+                    "choices": [
+                        "seven",
+                        "eight",
+                        "time (counter)",
+                        "counter for sheets of paper"
+                    ],
+                    "answer": "seven"
+                },
+                {
+                    "questionText": "How do you say 'important' in Korean?",
+                    "choices": [
+                        "다른 (dareun)",
+                        "중요한 (jungyohan)",
+                        "매우 (maeu)",
+                        "실제로 (siljero)"
+                    ],
+                    "answer": "중요한 (jungyohan)"
+                }
+            ]
+        }
+    ]
+}

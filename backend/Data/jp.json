@@ -1,0 +1,81 @@
+{
+  "courseId": 3,
+  "language": "Japanese",
+  "courseName": "Basic Japanese",
+  "chapters": [
+    {
+      "chapterId": "CH1",
+      "title": "Introduction to Hiragana",
+      "wordsAndDefinitions": {
+        "あ": "a",
+        "い": "i",
+        "う": "u",
+        "え": "e",
+        "お": "o"
+      }
+    },
+    {
+      "chapterId": "CH2",
+      "title": "Basic Greetings",
+      "wordsAndDefinitions": {
+        "こんにちは": "Hello",
+        "さようなら": "Goodbye",
+        "ありがとう": "Thank you",
+        "すみません": "Excuse me"
+      }
+    },
+    {
+      "chapterId": "CH3",
+      "title": "Numbers and Time",
+      "wordsAndDefinitions": {
+        "一": "one",
+        "二": "two",
+        "三": "three",
+        "時": "o'clock",
+        "分": "minute"
+      }
+    },
+    {
+      "chapterId": "CH4",
+      "title": "Daily Expressions",
+      "wordsAndDefinitions": {
+        "はい": "yes",
+        "いいえ": "no",
+        "お願いします": "please",
+        "どういたしまして": "you're welcome"
+      }
+    }
+  ],
+  "exams": [
+    {
+      "examId": "EX1",
+      "questions": [
+        {
+          "questionText": "What is the Hiragana for 'a'?",
+          "choices": ["い", "う", "あ", "え"],
+          "answer": "あ"
+        },
+        {
+          "questionText": "How do you say 'Thank you' in Japanese?",
+          "choices": ["ありがとう", "さようなら", "こんにちは", "すみません"],
+          "answer": "ありがとう"
+        }
+      ]
+    },
+    {
+      "examId": "EX2",
+      "questions": [
+        {
+          "questionText": "What is the Japanese word for 'two'?",
+          "choices": ["一", "三", "二", "時"],
+          "answer": "二"
+        },
+        {
+          "questionText": "How do you say 'yes' in Japanese?",
+          "choices": ["いいえ", "はい", "お願いします", "どういたしまして"],
+          "answer": "はい"
+        }
+      ]
+    }
+  ]
+}

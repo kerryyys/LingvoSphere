@@ -1,0 +1,103 @@
+{
+    "courseId": 2,
+    "language": "Chinese",
+    "courseName": "Advanced Chinese",
+    "chapters": [
+        {
+            "chapterId": "CH1",
+            "title": "Literary Expressions",
+            "wordsAndDefinitions": {
+                "文学 (wénxué)": "literature",
+                "诗歌 (shīgē)": "poetry",
+                "小说 (xiǎoshuō)": "novel",
+                "批评 (pīpíng)": "critique",
+                "象征主义 (xiàngzhēng zhǔyì)": "symbolism",
+                "现实主义 (xiànshí zhǔyì)": "realism"
+            }
+        },
+        {
+            "chapterId": "CH2",
+            "title": "Advanced Idioms",
+            "wordsAndDefinitions": {
+                "画蛇添足 (huà shé tiān zú)": "to overdo it",
+                "班门弄斧 (bān mén nòng fǔ)": "to show off one's inadequate skills",
+                "对牛弹琴 (duìniútánqín)": "to cast pearls before swine",
+                "瓜田李下 (guātiánlǐxià)": "in the wrong place at the wrong time"
+            }
+        },
+        {
+            "chapterId": "CH3",
+            "title": "Contemporary Chinese Literature",
+            "wordsAndDefinitions": {
+                "作家 (zuòjiā)": "writer",
+                "文学奖 (wénxué jiǎng)": "literary award",
+                "现代诗 (xiàndài shī)": "modern poetry",
+                "长篇小说 (chángpiān xiǎoshuō)": "long novel",
+                "随笔 (suíbǐ)": "essay"
+            }
+        },
+        {
+            "chapterId": "CH4",
+            "title": "Advanced Vocabulary in Daily Use",
+            "wordsAndDefinitions": {
+                "沉思 (chénsī)": "contemplation",
+                "婉转 (wǎnzhuǎn)": "elegant and gentle",
+                "深邃 (shēnsuì)": "profound",
+                "卓越 (zhuóyuè)": "outstanding",
+                "微妙 (wēimiào)": "subtle and delicate"
+            }
+        }
+    ],
+    "exams": [
+        {
+            "examId": "EX1",
+            "questions": [
+                {
+                    "questionText": "Translate 'novel' into Chinese.",
+                    "choices": [
+                        "小说 (xiǎoshuō)",
+                        "诗歌 (shīgē)",
+                        "文学 (wénxué)",
+                        "批评 (pīpíng)"
+                    ],
+                    "answer": "小说 (xiǎoshuō)"
+                },
+                {
+                    "questionText": "What does '画蛇添足' mean?",
+                    "choices": [
+                        "to overdo it",
+                        "to show off one's inadequate skills",
+                        "to cast pearls before swine",
+                        "in the wrong place at the wrong time"
+                    ],
+                    "answer": "to overdo it"
+                }
+            ]
+        },
+        {
+            "examId": "EX2",
+            "questions": [
+                {
+                    "questionText": "Who is a '作家'?",
+                    "choices": [
+                        "novelist",
+                        "poet",
+                        "writer",
+                        "critic"
+                    ],
+                    "answer": "writer"
+                },
+                {
+                    "questionText": "What does '沉思' mean?",
+                    "choices": [
+                        "contemplation",
+                        "elegant and gentle",
+                        "profound",
+                        "outstanding"
+                    ],
+                    "answer": "contemplation"
+                }
+            ]
+        }
+    ]
+}

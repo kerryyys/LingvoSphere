@@ -1,0 +1,83 @@
+{
+  "courseId": 6,
+  "language": "Korean",
+  "courseName": "Basic Korean",
+  "chapters": [
+    {
+      "chapterId": "CH1",
+      "title": "Introduction to Hangul",
+      "wordsAndDefinitions": {
+        "안녕하세요 (annyeonghaseyo)": "Hello",
+        "감사합니다 (gamsahamnida)": "Thank you",
+        "죄송합니다 (joesonghamnida)": "I'm sorry",
+        "예 (ye)": "Yes",
+        "아니요 (aniyo)": "No"
+      }
+    },
+    {
+      "chapterId": "CH2",
+      "title": "Basic Expressions",
+      "wordsAndDefinitions": {
+        "제 이름은 (je ireumeun)": "My name is",
+        "만나서 반가워요 (mannaseo bangawoyo)": "Nice to meet you",
+        "잘 지냈어요? (jal jinaesseoyo?)": "How are you?",
+        "이해했어요 (ihaehaesseoyo)": "I understand",
+        "모르겠어요 (moreugesseoyo)": "I don't understand"
+      }
+    },
+    {
+      "chapterId": "CH3",
+      "title": "Numbers and Time",
+      "wordsAndDefinitions": {
+        "하나 (hana)": "One",
+        "둘 (dul)": "Two",
+        "셋 (set)": "Three",
+        "시 (si)": "Hour",
+        "분 (bun)": "Minute"
+      }
+    },
+    {
+      "chapterId": "CH4",
+      "title": "Food and Dining",
+      "wordsAndDefinitions": {
+        "물 (mul)": "Water",
+        "밥 (bap)": "Rice",
+        "김치 (gimchi)": "Kimchi",
+        "맥주 (maekju)": "Beer",
+        "계산서 (gyesanseo)": "Check/Bill"
+      }
+    }
+  ],
+  "exams": [
+    {
+      "examId": "EX1",
+      "questions": [
+        {
+          "questionText": "How do you say 'Hello' in Korean?",
+          "choices": ["감사합니다 (gamsahamnida)", "죄송합니다 (joesonghamnida)", "안녕하세요 (annyeonghaseyo)", "아니요 (aniyo)"],
+          "answer": "안녕하세요 (annyeonghaseyo)"
+        },
+        {
+          "questionText": "What is the Korean word for 'Water'?",
+          "choices": ["밥 (bap)", "김치 (gimchi)", "맥주 (maekju)", "물 (mul)"],
+          "answer": "물 (mul)"
+        }
+      ]
+    },
+    {
+      "examId": "EX2",
+      "questions": [
+        {
+          "questionText": "What is 'Two' in Korean?",
+          "choices": ["하나 (hana)", "둘 (dul)", "셋 (set)", "시 (si)"],
+          "answer": "둘 (dul)"
+        },
+        {
+          "questionText": "How do you say 'Nice to meet you' in Korean?",
+          "choices": ["제 이름은 (je ireumeun)", "만나서 반가워요 (mannaseo bangawoyo)", "잘 지냈어요? (jal jinaesseoyo?)", "이해했어요 (ihaehaesseoyo)"],
+          "answer": "만나서 반가워요 (mannaseo bangawoyo)"
+        }
+      ]
+    }
+  ]
+}

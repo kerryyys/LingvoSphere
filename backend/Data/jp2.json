@@ -1,0 +1,101 @@
+{
+    "courseId": 5,
+    "language": "Japanese",
+    "courseName": "Advanced Japanese",
+    "chapters": [
+        {
+            "chapterId": "CH1",
+            "title": "Advanced Kanji",
+            "wordsAndDefinitions": {
+                "電車 (でんしゃ)": "train",
+                "経済 (けいざい)": "economy",
+                "環境 (かんきょう)": "environment",
+                "国際関係 (こくさいかんけい)": "international relations",
+                "科学技術 (かがくぎじゅつ)": "science and technology"
+            }
+        },
+        {
+            "chapterId": "CH2",
+            "title": "Formal Expressions",
+            "wordsAndDefinitions": {
+                "尊敬語 (そんけいご)": "respectful language",
+                "謙譲語 (けんじょうご)": "humble language",
+                "丁寧語 (ていねいご)": "polite language",
+                "仕事 (しごと)": "job, work",
+                "契約 (けいやく)": "contract"
+            }
+        },
+        {
+            "chapterId": "CH3",
+            "title": "Advanced Grammar Structures",
+            "wordsAndDefinitions": {
+                "〜ながら": "while, during",
+                "〜べきだ (べきである)": "should, must",
+                "〜に関して (にかんして)": "regarding, concerning",
+                "〜っけ": "I remember that"
+            }
+        },
+        {
+            "chapterId": "CH4",
+            "title": "Cultural Insights",
+            "wordsAndDefinitions": {
+                "お疲れ様でした (おつかれさまでした)": "thank you for your hard work",
+                "いただきます": "let's eat (before a meal)",
+                "ごちそうさまでした": "thank you for the meal",
+                "お疲れ (おつかれ)": "tired"
+            }
+        }
+    ],
+    "exams": [
+        {
+            "examId": "EX1",
+            "questions": [
+                {
+                    "questionText": "Translate 'economy' into Japanese.",
+                    "choices": [
+                        "でんしゃ",
+                        "けいざい",
+                        "かんきょう",
+                        "こくさいかんけい"
+                    ],
+                    "answer": "けいざい"
+                },
+                {
+                    "questionText": "What is the Kanji for 'train'?",
+                    "choices": [
+                        "でんしゃ",
+                        "けいざい",
+                        "かんきょう",
+                        "こくさいかんけい"
+                    ],
+                    "answer": "電車 (でんしゃ)"
+                }
+            ]
+        },
+        {
+            "examId": "EX2",
+            "questions": [
+                {
+                    "questionText": "What does '尊敬語' mean?",
+                    "choices": [
+                        "respectful language",
+                        "humble language",
+                        "polite language",
+                        "job, work"
+                    ],
+                    "answer": "respectful language"
+                },
+                {
+                    "questionText": "How do you say 'while' in Japanese?",
+                    "choices": [
+                        "〜ながら",
+                        "〜べきだ",
+                        "〜に関して",
+                        "〜っけ"
+                    ],
+                    "answer": "〜ながら"
+                }
+            ]
+        }
+    ]
+}

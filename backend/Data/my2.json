@@ -1,0 +1,103 @@
+{
+    "courseId": 11,
+    "language": "Malay",
+    "courseName": "Advanced Malay",
+    "chapters": [
+        {
+            "chapterId": "CH1",
+            "title": "Malaysian History",
+            "wordsAndDefinitions": {
+                "Merdeka": "Independence",
+                "Raja": "King",
+                "Parlimen": "Parliament",
+                "Reformasi": "Reformation",
+                "Pembangunan": "Development"
+            }
+        },
+        {
+            "chapterId": "CH2",
+            "title": "Legal and Political Terms",
+            "wordsAndDefinitions": {
+                "Hak asasi manusia": "Human rights",
+                "Perlembagaan": "Constitution",
+                "Mahkamah": "Court",
+                "Perdana Menteri": "Prime Minister",
+                "Undang-undang": "Law"
+            }
+        },
+        {
+            "chapterId": "CH3",
+            "title": "Economic Concepts",
+            "wordsAndDefinitions": {
+                "Pertumbuhan ekonomi": "Economic growth",
+                "Inflasi": "Inflation",
+                "Pendapatan nasional": "National income",
+                "Perniagaan antarabangsa": "International trade",
+                "Dasar ekonomi baru": "New economic policy"
+            }
+        },
+        {
+            "chapterId": "CH4",
+            "title": "Advanced Literature",
+            "wordsAndDefinitions": {
+                "Sastera": "Literature",
+                "Puisi": "Poetry",
+                "Drama": "Drama",
+                "Novel": "Novel",
+                "Kritikan sastra": "Literary criticism"
+            }
+        }
+    ],
+    "exams": [
+        {
+            "examId": "EX1",
+            "questions": [
+                {
+                    "questionText": "Translate 'Perdana Menteri' into English.",
+                    "choices": [
+                        "Independence",
+                        "King",
+                        "Prime Minister",
+                        "Human rights"
+                    ],
+                    "answer": "Prime Minister"
+                },
+                {
+                    "questionText": "Define 'Pendapatan nasional' in Malay.",
+                    "choices": [
+                        "Economic growth",
+                        "National income",
+                        "International trade",
+                        "New economic policy"
+                    ],
+                    "answer": "National income"
+                }
+            ]
+        },
+        {
+            "examId": "EX2",
+            "questions": [
+                {
+                    "questionText": "What is 'Merdeka'?",
+                    "choices": [
+                        "Reformation",
+                        "Development",
+                        "Independence",
+                        "Human rights"
+                    ],
+                    "answer": "Independence"
+                },
+                {
+                    "questionText": "In Malay, what does 'Sastera' mean?",
+                    "choices": [
+                        "Poetry",
+                        "Drama",
+                        "Novel",
+                        "Literature"
+                    ],
+                    "answer": "Literature"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "courseId": 1,
+    "language": "Chinese",
+    "courseName": "Intermediate Chinese",
+    "chapters": [
+        {
+            "chapterId": "CH1",
+            "title": "Advanced Pinyin",
+            "wordsAndDefinitions": {
+                "他 (tā)": "he, him",
+                "她 (tā)": "she, her",
+                "它 (tā)": "it",
+                "我们 (wǒmen)": "we, us",
+                "他们 (tāmen)": "they, them",
+                "自己 (zìjǐ)": "oneself, self"
+            }
+        },
+        {
+            "chapterId": "CH2",
+            "title": "Everyday Conversations",
+            "wordsAndDefinitions": {
+                "吃饭 (chī fàn)": "to have a meal",
+                "喝咖啡 (hē kāfēi)": "to drink coffee",
+                "看书 (kàn shū)": "to read a book",
+                "写文章 (xiě wénzhāng)": "to write an article",
+                "学习 (xuéxí)": "to study, to learn"
+            }
+        },
+        {
+            "chapterId": "CH3",
+            "title": "Intermediate Numbers",
+            "wordsAndDefinitions": {
+                "五十 (wǔshí)": "fifty",
+                "六十 (liùshí)": "sixty",
+                "七十 (qīshí)": "seventy",
+                "二百 (èrbǎi)": "two hundred",
+                "千 (qiān)": "thousand"
+            }
+        },
+        {
+            "chapterId": "CH4",
+            "title": "Expressing Opinions",
+            "wordsAndDefinitions": {
+                "喜欢 (xǐhuān)": "to be fond of",
+                "讨厌 (tǎoyàn)": "to detest, to find annoying",
+                "觉得 (juéde)": "to feel, to think",
+                "有趣 (yǒuqù)": "interesting",
+                "复杂 (fùzá)": "complicated"
+            }
+        }
+    ],
+    "exams": [
+        {
+            "examId": "EX1",
+            "questions": [
+                {
+                    "questionText": "How do you say 'oneself' in Chinese?",
+                    "choices": [
+                        "自己 (zìjǐ)",
+                        "我们 (wǒmen)",
+                        "他们 (tāmen)",
+                        "你 (nǐ)"
+                    ],
+                    "answer": "自己 (zìjǐ)"
+                },
+                {
+                    "questionText": "Translate 'to study' into Chinese.",
+                    "choices": [
+                        "吃饭 (chī fàn)",
+                        "学习 (xuéxí)",
+                        "看书 (kàn shū)",
+                        "喝咖啡 (hē kāfēi)"
+                    ],
+                    "answer": "学习 (xuéxí)"
+                }
+            ]
+        },
+        {
+            "examId": "EX2",
+            "questions": [
+                {
+                    "questionText": "What is the Chinese word for 'fifty'?",
+                    "choices": [
+                        "五十 (wǔshí)",
+                        "七十 (qīshí)",
+                        "六十 (liùshí)",
+                        "二百 (èrbǎi)"
+                    ],
+                    "answer": "五十 (wǔshí)"
+                },
+                {
+                    "questionText": "Translate 'complicated' into Chinese.",
+                    "choices": [
+                        "有趣 (yǒuqù)",
+                        "复杂 (fùzá)",
+                        "觉得 (juéde)",
+                        "喜欢 (xǐhuān)"
+                    ],
+                    "answer": "复杂 (fùzá)"
+                }
+            ]
+        }
+    ]
+}

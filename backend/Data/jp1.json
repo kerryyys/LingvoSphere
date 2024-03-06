@@ -1,0 +1,102 @@
+{
+    "courseId": 4,
+    "language": "Japanese",
+    "courseName": "Intermediate Japanese",
+    "chapters": [
+        {
+            "chapterId": "CH1",
+            "title": "Kanji Basics",
+            "wordsAndDefinitions": {
+                "学校 (がっこう)": "school",
+                "友達 (ともだち)": "friend",
+                "料理 (りょうり)": "cooking",
+                "旅行 (りょこう)": "travel",
+                "夢 (ゆめ)": "dream"
+            }
+        },
+        {
+            "chapterId": "CH2",
+            "title": "Intermediate Greetings",
+            "wordsAndDefinitions": {
+                "お疲れ様 (おつかれさま)": "good job",
+                "お元気ですか (おげんきですか)": "how are you?",
+                "失礼します (しつれいします)": "excuse me",
+                "お先にどうぞ (おさきにどうぞ)": "please go ahead"
+            }
+        },
+        {
+            "chapterId": "CH3",
+            "title": "Advanced Numbers and Counters",
+            "wordsAndDefinitions": {
+                "百 (ひゃく)": "hundred",
+                "千 (せん)": "thousand",
+                "年 (ねん)": "year",
+                "回 (かい)": "counter for occurrences",
+                "冊 (さつ)": "counter for books"
+            }
+        },
+        {
+            "chapterId": "CH4",
+            "title": "Expressing Desires and Preferences",
+            "wordsAndDefinitions": {
+                "好き (すき)": "like",
+                "嫌い (きらい)": "dislike",
+                "欲しい (ほしい)": "want",
+                "必要 (ひつよう)": "necessary",
+                "選ぶ (えらぶ)": "to choose"
+            }
+        }
+    ],
+    "exams": [
+        {
+            "examId": "EX1",
+            "questions": [
+                {
+                    "questionText": "Translate 'travel' into Japanese.",
+                    "choices": [
+                        "りょうり",
+                        "りょこう",
+                        "ともだち",
+                        "ゆめ"
+                    ],
+                    "answer": "りょこう"
+                },
+                {
+                    "questionText": "What is the Kanji for 'dream'?",
+                    "choices": [
+                        "ゆめ",
+                        "りょうり",
+                        "ともだち",
+                        "がっこう"
+                    ],
+                    "answer": "夢 (ゆめ)"
+                }
+            ]
+        },
+        {
+            "examId": "EX2",
+            "questions": [
+                {
+                    "questionText": "How do you say 'excuse me' in Japanese?",
+                    "choices": [
+                        "おげんきですか",
+                        "おさきにどうぞ",
+                        "しつれいします",
+                        "おつかれさま"
+                    ],
+                    "answer": "しつれいします"
+                },
+                {
+                    "questionText": "What does '好き' mean?",
+                    "choices": [
+                        "like",
+                        "dislike",
+                        "want",
+                        "necessary"
+                    ],
+                    "answer": "like"
+                }
+            ]
+        }
+    ]
+}

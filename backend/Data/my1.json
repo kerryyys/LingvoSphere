@@ -1,0 +1,103 @@
+{
+    "courseId": 10,
+    "language": "Malay",
+    "courseName": "Intermediate Malay",
+    "chapters": [
+        {
+            "chapterId": "CH1",
+            "title": "Cultural Expressions",
+            "wordsAndDefinitions": {
+                "Selamat petang": "Good evening",
+                "Selamat sejahtera": "Greetings",
+                "Budaya": "Culture",
+                "Tradisi": "Tradition",
+                "Pertunjukan seni": "Art performance"
+            }
+        },
+        {
+            "chapterId": "CH2",
+            "title": "Travel and Directions",
+            "wordsAndDefinitions": {
+                "Tempat pelancongan": "Tourist attraction",
+                "Hotel": "Hotel",
+                "Kiri": "Left",
+                "Kanan": "Right",
+                "Berhenti": "Stop"
+            }
+        },
+        {
+            "chapterId": "CH3",
+            "title": "Health and Wellness",
+            "wordsAndDefinitions": {
+                "Sihat": "Healthy",
+                "Rawatan": "Treatment",
+                "Sakit kepala": "Headache",
+                "Penyakit": "Illness",
+                "Bugar": "Fit"
+            }
+        },
+        {
+            "chapterId": "CH4",
+            "title": "Social Conversations",
+            "wordsAndDefinitions": {
+                "Berkumpul": "Gather",
+                "Perbualan": "Conversation",
+                "Jemputan": "Invitation",
+                "Bual-bual": "Chit-chat",
+                "Persahabatan": "Friendship"
+            }
+        }
+    ],
+    "exams": [
+        {
+            "examId": "EX1",
+            "questions": [
+                {
+                    "questionText": "What does 'Selamat sejahtera' mean?",
+                    "choices": [
+                        "Greetings",
+                        "Culture",
+                        "Tradition",
+                        "Art performance"
+                    ],
+                    "answer": "Greetings"
+                },
+                {
+                    "questionText": "Translate 'Hotel' into Malay.",
+                    "choices": [
+                        "Sihat",
+                        "Hotel",
+                        "Rawatan",
+                        "Bugar"
+                    ],
+                    "answer": "Hotel"
+                }
+            ]
+        },
+        {
+            "examId": "EX2",
+            "questions": [
+                {
+                    "questionText": "What is the Malay word for 'Left'?",
+                    "choices": [
+                        "Kiri",
+                        "Kanan",
+                        "Berhenti",
+                        "Berkumpul"
+                    ],
+                    "answer": "Kiri"
+                },
+                {
+                    "questionText": "Define 'Sakit kepala' in English.",
+                    "choices": [
+                        "Treatment",
+                        "Headache",
+                        "Illness",
+                        "Fit"
+                    ],
+                    "answer": "Headache"
+                }
+            ]
+        }
+    ]
+}

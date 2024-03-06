@@ -1,0 +1,81 @@
+{
+  "courseId": 0,
+  "language": "Chinese",
+  "courseName": "Basic Chinese",
+  "chapters": [
+    {
+      "chapterId": "CH1",
+      "title": "Introduction to Pinyin",
+      "wordsAndDefinitions": {
+        "你 (nǐ)": "you",
+        "好 (hǎo)": "good",
+        "我 (wǒ)": "I, me",
+        "是 (shì)": "to be",
+        "谢谢 (xièxie)": "thank you"
+      }
+    },
+    {
+      "chapterId": "CH2",
+      "title": "Basic Greetings",
+      "wordsAndDefinitions": {
+        "你好 (nǐ hǎo)": "hello",
+        "再见 (zàijiàn)": "goodbye",
+        "请 (qǐng)": "please",
+        "对不起 (duìbuqǐ)": "sorry"
+      }
+    },
+    {
+      "chapterId": "CH3",
+      "title": "Numbers and Time",
+      "wordsAndDefinitions": {
+        "一 (yī)": "one",
+        "二 (èr)": "two",
+        "三 (sān)": "three",
+        "十 (shí)": "ten",
+        "钟 (zhōng)": "clock"
+      }
+    },
+    {
+      "chapterId": "CH4",
+      "title": "Daily Expressions",
+      "wordsAndDefinitions": {
+        "是 (shì)": "yes",
+        "不 (bù)": "no",
+        "谢谢 (xièxie)": "thank you",
+        "不客气 (bú kèqi)": "you're welcome"
+      }
+    }
+  ],
+  "exams": [
+    {
+      "examId": "EX1",
+      "questions": [
+        {
+          "questionText": "What is the Pinyin for 'you'?",
+          "choices": ["好 (hǎo)", "我 (wǒ)", "你 (nǐ)", "是 (shì)"],
+          "answer": "你 (nǐ)"
+        },
+        {
+          "questionText": "How do you say 'thank you' in Chinese?",
+          "choices": ["对不起 (duìbuqǐ)", "请 (qǐng)", "你好 (nǐ hǎo)", "谢谢 (xièxie)"],
+          "answer": "谢谢 (xièxie)"
+        }
+      ]
+    },
+    {
+      "examId": "EX2",
+      "questions": [
+        {
+          "questionText": "What is the Chinese word for 'two'?",
+          "choices": ["一 (yī)", "三 (sān)", "二 (èr)", "十 (shí)"],
+          "answer": "二 (èr)"
+        },
+        {
+          "questionText": "How do you say 'sorry' in Chinese?",
+          "choices": ["不 (bù)", "再见 (zàijiàn)", "请 (qǐng)", "对不起 (duìbuqǐ)"],
+          "answer": "对不起 (duìbuqǐ)"
+        }
+      ]
+    }
+  ]
+}

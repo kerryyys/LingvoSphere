@@ -1,0 +1,103 @@
+{
+    "courseId": 8,
+    "language": "Korean",
+    "courseName": "Advanced Korean",
+    "chapters": [
+        {
+            "chapterId": "CH1",
+            "title": "Korean Literature",
+            "wordsAndDefinitions": {
+                "현대시 (hyeondae-si)": "modern poetry",
+                "고전문학 (gojeonmunhak)": "classical literature",
+                "작가 (jakga)": "author",
+                "소설 (soseol)": "novel",
+                "평론가 (pyeongronga)": "critic"
+            }
+        },
+        {
+            "chapterId": "CH2",
+            "title": "Advanced Grammar and Syntax",
+            "wordsAndDefinitions": {
+                "접속사 (jeopsoksa)": "conjunction",
+                "보어 (boeo)": "object complement",
+                "부사절 (busajeol)": "adverbial clause",
+                "수동태 (sudongtae)": "passive voice",
+                "간접화법 (ganjeokhwabeop)": "indirect speech"
+            }
+        },
+        {
+            "chapterId": "CH3",
+            "title": "Modern Korean Society",
+            "wordsAndDefinitions": {
+                "사회적 이슈 (sahojeok isyu)": "social issue",
+                "글로벌 경제 (geullobeol gyeongje)": "global economy",
+                "인권 (ingwon)": "human rights",
+                "지속가능성 (jisokganeungsung)": "sustainability",
+                "다문화 사회 (damunhwa sahoe)": "multicultural society"
+            }
+        },
+        {
+            "chapterId": "CH4",
+            "title": "Advanced Conversation",
+            "wordsAndDefinitions": {
+                "논쟁 (nonjaeng)": "debate",
+                "협상 (hyeopsang)": "negotiation",
+                "간담회 (gandamhoe)": "symposium",
+                "토론 (toron)": "discussion",
+                "비판 (bipan)": "criticism"
+            }
+        }
+    ],
+    "exams": [
+        {
+            "examId": "EX1",
+            "questions": [
+                {
+                    "questionText": "What is the Korean term for 'modern poetry'?",
+                    "choices": [
+                        "현대시 (hyeondae-si)",
+                        "고전문학 (gojeonmunhak)",
+                        "작가 (jakga)",
+                        "소설 (soseol)"
+                    ],
+                    "answer": "현대시 (hyeondae-si)"
+                },
+                {
+                    "questionText": "Define '접속사' in Korean.",
+                    "choices": [
+                        "conjunction",
+                        "object complement",
+                        "adverbial clause",
+                        "passive voice"
+                    ],
+                    "answer": "접속사 (jeopsoksa)"
+                }
+            ]
+        },
+        {
+            "examId": "EX2",
+            "questions": [
+                {
+                    "questionText": "What does '사회적 이슈' mean?",
+                    "choices": [
+                        "social issue",
+                        "global economy",
+                        "human rights",
+                        "sustainability"
+                    ],
+                    "answer": "social issue"
+                },
+                {
+                    "questionText": "In Korean, what is '논쟁'?",
+                    "choices": [
+                        "debate",
+                        "negotiation",
+                        "symposium",
+                        "discussion"
+                    ],
+                    "answer": "논쟁 (nonjaeng)"
+                }
+            ]
+        }
+    ]
+}

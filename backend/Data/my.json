@@ -1,0 +1,83 @@
+{
+  "courseId": 9,
+  "language": "Malay",
+  "courseName": "Basic Malay",
+  "chapters": [
+    {
+      "chapterId": "CH1",
+      "title": "Basic Greetings",
+      "wordsAndDefinitions": {
+        "Halo": "Hello",
+        "Selamat pagi": "Good morning",
+        "Selamat malam": "Good night",
+        "Terima kasih": "Thank you",
+        "Maaf": "Sorry"
+      }
+    },
+    {
+      "chapterId": "CH2",
+      "title": "Common Phrases",
+      "wordsAndDefinitions": {
+        "Apa khabar?": "How are you?",
+        "Nama saya...": "My name is...",
+        "Saya tidak mengerti": "I don't understand",
+        "Bolehkah saya bertanya?": "May I ask?",
+        "Saya dari...": "I am from..."
+      }
+    },
+    {
+      "chapterId": "CH3",
+      "title": "Numbers and Time",
+      "wordsAndDefinitions": {
+        "Satu": "One",
+        "Dua": "Two",
+        "Tiga": "Three",
+        "Jam": "Hour",
+        "Minit": "Minute"
+      }
+    },
+    {
+      "chapterId": "CH4",
+      "title": "Everyday Vocabulary",
+      "wordsAndDefinitions": {
+        "Air": "Water",
+        "Makanan": "Food",
+        "Kereta": "Car",
+        "Rumah": "House",
+        "Pasar": "Market"
+      }
+    }
+  ],
+  "exams": [
+    {
+      "examId": "EX1",
+      "questions": [
+        {
+          "questionText": "How do you say 'Good morning' in Malay?",
+          "choices": ["Selamat pagi", "Selamat malam", "Terima kasih", "Maaf"],
+          "answer": "Selamat pagi"
+        },
+        {
+          "questionText": "What is the Malay word for 'Two'?",
+          "choices": ["Satu", "Dua", "Tiga", "Empat"],
+          "answer": "Dua"
+        }
+      ]
+    },
+    {
+      "examId": "EX2",
+      "questions": [
+        {
+          "questionText": "How do you say 'Thank you' in Malay?",
+          "choices": ["Terima kasih", "Maaf", "Selamat malam", "Halo"],
+          "answer": "Terima kasih"
+        },
+        {
+          "questionText": "What is the Malay word for 'Water'?",
+          "choices": ["Makanan", "Kereta", "Rumah", "Air"],
+          "answer": "Air"
+        }
+      ]
+    }
+  ]
+}
