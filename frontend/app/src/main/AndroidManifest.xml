@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/lingvosphere_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/lingvosphere_icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LingvoSphere"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".CertActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GeneratingCourseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LearningActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NewScheduleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewMentorProfileActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".BookMentorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileEditingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AddEventActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LevelSelcetionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CourseEnrollActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ForgotPassword"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LearningTimelineActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".EmailVerificationActivity"
+            android:exported="false" />
+        <activity android:name=".SignUpActivity" />
+        <activity
+            android:name=".AIChatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewMentorProfileActivity1"
+            android:exported="true" /> <!-- <activity -->
+        <activity
+            android:name=".AccoladeOasisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WelcomePageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginPageActivity"
+            android:exported="true" />
+        <activity android:name=".AddPostActivity" />
+        <activity android:name=".CommunityCornerActivity" />
+        <activity
+            android:name="com.yalantis.ucrop.UCropActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".CropperActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CommentActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

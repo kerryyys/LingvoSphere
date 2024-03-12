@@ -1,0 +1,970 @@
+[
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_activity_level_selcetion.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/activity_level_selcetion.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_semicondensed_extrabold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_semicondensed_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_theme_color.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_theme_color.xml"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_activity_add_event.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/activity_add_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xhdpi_lingvosphere_icon_round.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xhdpi\\lingvosphere_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_profile_picture.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\profile_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_send.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\send.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_cc_comment.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\cc_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_forgot_pwd_lock.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\forgot_pwd_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_profile_arrow.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\profile_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_white_arrow.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\white_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_todo_test.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\todo_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_me_active.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\me_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_white.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_login_button_active.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\login_button_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_user_chat_box.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\user_chat_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_more_arrow_black.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\more_arrow_black.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_ic_back_white.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\ic_back_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_condensed_regular.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_condensed_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_email_verification.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_email_verification.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_message_background.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\message_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_note_2.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\note_2.xml"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_layout_homepage.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/layout_homepage.xml"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_activity_learning_timeline.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/activity_learning_timeline.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xxhdpi_lingvosphere_icon_round.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xxhdpi\\lingvosphere_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_message_text.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\message_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_semicondensed_thin.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_semicondensed_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_condensed_extrabold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_condensed_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_extracondensed_regular.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_extracondensed_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_accolade_oasis.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_accolade_oasis.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_todo_chapter.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\todo_chapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xxxhdpi_lingvosphere_icon.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xxxhdpi\\lingvosphere_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_flag_jp.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\flag_jp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_cc_heart.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\cc_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_thumb.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_cert.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\cert.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_activity_ai_chat.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/activity_ai_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_extracondensed_semibold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_extracondensed_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xhdpi_lingvosphere_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xhdpi\\lingvosphere_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_heart_check.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\heart_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_layout_task_item.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\layout_task_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_custom_badge_button_unchecked.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\custom_badge_button_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_layout_learning_journey.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\layout_learning_journey.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_view_mentor_profile1.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_view_mentor_profile1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-hdpi_lingvosphere_icon.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-hdpi\\lingvosphere_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_book_mentor.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_book_mentor.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_signin_button.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\signin_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_grey_border.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_grey_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_profile_pic.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_flag_cn.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\flag_cn.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_gret.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_gret.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_condensed_medium.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_condensed_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_view_mentor_profile2.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_view_mentor_profile2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_mentor3_pic.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\mentor3_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_condensed_extralight.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_condensed_extralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_flag_my.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\flag_my.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_loading_dialog.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_cross.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_layout_profile.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\layout_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_inprogress_course_item.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\inprogress_course_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_generating_course.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_generating_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_green_spot.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\green_spot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_circle_green_40dp.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\circle_green_40dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_comment.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_semicondensed_black.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_semicondensed_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_ic_done_white.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\ic_done_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_home_active.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\home_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xhdpi_lingvosphere_icon.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xhdpi\\lingvosphere_icon.webp"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_activity_course_enroll.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/activity_course_enroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-anydpi-v26_lingvosphere_icon.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-anydpi-v26\\lingvosphere_icon.xml"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/drawable_round_corner_white.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/drawable/round_corner_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_progress_active.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\progress_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_semicondensed_semibold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_semicondensed_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_welcome_page.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_welcome_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_gmail.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\gmail.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_light_green.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_light_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_mentor1_pic.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\mentor1_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_medal.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\medal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_ic_done_green.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\ic_done_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_unchecked_radio_button.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\unchecked_radio_button.xml"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_layout_learning_journey.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/layout_learning_journey.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalamsemibold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalamsemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_receiver_chat_layout.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\receiver_chat_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_condensed_black.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_condensed_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_loading.gif.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\loading.gif"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_condensed_bold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_condensed_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_login_button_inactive.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\login_button_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_pot_12.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\pot_12.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_continue_to_login_button.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\continue_to_login_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_button_yellow.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_button_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_noti_logo.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\noti_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_search_icon.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-hdpi_lingvosphere_icon_round.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-hdpi\\lingvosphere_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_right.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_level_selcetion.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_level_selcetion.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_aimentor.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\aimentor.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_extracondensed_black.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_extracondensed_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_green_border.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_green_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_edit_button.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\edit_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_white_spot.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\white_spot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_semicondensed_medium.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_semicondensed_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_more_icon.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\more_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_extracondensed_thin.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_extracondensed_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_extracondensed_extralight.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_extracondensed_extralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_learning.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_learning.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_delete.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_semicondensed_bold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_semicondensed_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_pot_10.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\pot_10.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_progress_white.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\progress_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_resend_email_button.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\resend_email_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_learning_timeline.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_learning_timeline.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-hdpi_lingvosphere_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-hdpi\\lingvosphere_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_option.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\option.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_progress.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_pot_2.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\pot_2.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_ai_chat.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_ai_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalamlight.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalamlight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-mdpi_lingvosphere_icon_round.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-mdpi\\lingvosphere_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_checked_radio_button.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\checked_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_community_corner.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_community_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_post_items.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\post_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_pot_11.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\pot_11.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xxxhdpi_lingvosphere_icon_round.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xxxhdpi\\lingvosphere_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_test.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_language_logo.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\language_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_mentor2_pic.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\mentor2_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_ai_chat_box.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\ai_chat_box.xml"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_layout_mentorship_hub.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/layout_mentorship_hub.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_flag_korea.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\flag_korea.xml"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_post_items.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/post_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_extracondensed_extrabold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_extracondensed_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_dark_cyan.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_dark_cyan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_pot_1.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\pot_1.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_checked_radio_button_darkgreen.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\checked_radio_button_darkgreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_item.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_arrow_black.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\arrow_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalamregular.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalamregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_comment_spinner.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\comment_spinner.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_layout_mentorship_hub.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\layout_mentorship_hub.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_flag_uk.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\flag_uk.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalamthin.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalamthin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_add_post.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_add_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_mentor_active.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\mentor_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_cc_heart_red.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\cc_heart_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_comment_items.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\comment_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalamblack.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalamblack.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_to_enroll_item.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\to_enroll_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_logo_white.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\logo_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_pot_4.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\pot_4.png"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_ic_add_green.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\ic_add_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_semicondensed_regular.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_semicondensed_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_white.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_cert.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_cert.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalammedium.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalammedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_lingvosphere_icon.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\lingvosphere_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_calendar_item.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\calendar_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_pot_13.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\pot_13.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_mentor.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\mentor.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_cc_share.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\cc_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_cyan.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_cyan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_profile_editing.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_profile_editing.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_dialog_activity_select.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/dialog_activity_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalamextralight.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalamextralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xxxhdpi_lingvosphere_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xxxhdpi\\lingvosphere_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_text_box.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\text_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_sender_chat_layout.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\sender_chat_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_edit_profile_btn.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\edit_profile_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_dialog_activity_select.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\dialog_activity_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_mentor_session_item.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\mentor_session_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_condensed_thin.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_condensed_thin.ttf"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_layout_profile.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/layout_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_enrolled_course_item.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\enrolled_course_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_comment_spinner_item_layout.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\comment_spinner_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_more_arrow_white.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\more_arrow_white.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_extracondensed_medium.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_extracondensed_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_semicondensed_extralight.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_semicondensed_extralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_linkedin.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_progress_white.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_progress_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_me.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\me.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_dark_green.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_dark_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_chatt.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\chatt.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-mdpi_lingvosphere_icon.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-mdpi\\lingvosphere_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_course_enroll.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_course_enroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_grey.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_add_event.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_add_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xxhdpi_lingvosphere_icon.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xxhdpi\\lingvosphere_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_pot_14.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\pot_14.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_login_button.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\login_button.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_green.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_semicondensed_light.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_semicondensed_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_round_corner_yellow.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\round_corner_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_layout_homepage.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\layout_homepage.xml"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_activity_add_post.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/activity_add_post.xml"
+    },
+    {
+        "merged": "com.lingvosphere.app-merged_res-36:/layout_activity_learning.xml.flat",
+        "source": "com.lingvosphere.app-main-38:/layout/activity_learning.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-mdpi_lingvosphere_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-mdpi\\lingvosphere_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalambold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalambold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_login_page.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalamextrabold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalamextrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_dialog_bg.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-anydpi-v26_lingvosphere_icon_round.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-anydpi-v26\\lingvosphere_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_ic_done.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\ic_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_condensed_semibold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_condensed_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_back_arrow.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_extracondensed_light.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_extracondensed_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_rectangle_background.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\rectangle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_extracondensed_bold.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_extracondensed_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\layout_enroll_item.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\layout\\enroll_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\font_notosansmalayalam_condensed_light.ttf.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\font\\notosansmalayalam_condensed_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_comment_background.xml.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\comment_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_pot_3.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\pot_3.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\drawable_pot.png.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\drawable\\pot.png"
+    },
+    {
+        "merged": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-merged_res-36:\\mipmap-xxhdpi_lingvosphere_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ttkky\\.gradle\\daemon\\8.0\\com.lingvosphere.app-main-38:\\mipmap-xxhdpi\\lingvosphere_icon_foreground.webp"
+    }
+]

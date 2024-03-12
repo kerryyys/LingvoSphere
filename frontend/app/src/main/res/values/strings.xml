@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">LingvoSphere</string>
+    <string name="melayu">Bahasa Melayu</string>
+    <string name="mandarin">Chinese</string>
+    <string name="korean">Korean</string>
+    <string name="japanese">Japanese</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="advanced">Advanced</string>
+
+    <!--    General Module-->
+    <string name="log_in_register">Log in / Register</string>
+    <string name="or">Or</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="unlock_communication_skills">Unlock Communication Skills:</string>
+    <string name="personalised_learning_n_interactive_exercises_n_cultural_insights">Personalised Learning\n Interactive Exercises\n Cultural Insights</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="resend_after_1_minute">Resend after 1 minute</string>
+    <string name="click_continue_to_login_if_your_email_has_already_been_verified_if_you_haven_t_received_any_email_please_click_resend_verification_email">Click continue to login if your email has already been verified. If you haven\'t received any email, please click resend verification email</string>
+    <string name="email_verification">Email Verification</string>
+    <string name="register">Register</string>
+    <string name="mentor">Mentor</string>
+    <string name="learner">Learner</string>
+    <string name="join_lingvosphere_as_a">Join LingvoSphere as a</string>
+    <string name="supported_format_pdf">Supported format: .pdf</string>
+    <string name="choose_file">Choose File</string>
+    <string name="upload_cert_prove">Upload Cert / Prove</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="notification">Notification</string>
+    <string name="language">Language</string>
+    <string name="settings">Settings</string>
+    <string name="apple_tan">Apple Tan</string>
+    <string name="trouble_logging_in">Trouble logging in?</string>
+    <string name="enter_your_email_and_we_ll_send_you_a_link_to_get_back_into_your_account">We\'ll send you a link to get back into your account.</string>
+    <string name="send_login_link">Send reset link</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <!--    Learning Journey-->
+
+
+    <!--    Accolade Oasis-->
+    <string name="accolade_oasis">Accolade Oasis</string>
+    <string name="comment">Leave your comment</string>
+
+
+    <!--    Mentorship Hub-->
+    <string name="available_mentor">Available Mentor</string>
+    <string name="mentorship_hub">Mentorship Hub</string>
+    <string name="book_mentor">Book Mentor</string>
+    <string name="ai_mentor">AI Mentor</string>
+    <string name="ai_des">Your AI Chat Partner.</string>
+    <string name="mentor1_name">Reba K.</string>
+    <string name="mentor1_des"><![CDATA[Japanese (Native) & English (Proficient)]]></string>
+    <string name="mentor1_intro">I am Reba. I have been teaching Japanese...</string>
+    <string name="mentor2_name">沙織 川.</string>
+    <string name="mentor2_des">Japanese (Native), English (Native) ...</string>
+    <string name="mentor2_intro">Hello, My name is Saori and I’m teaching... </string>
+    <string name="mentor3_name">Hinako N.</string>
+    <string name="mentor3_des">Japanese (Native), Mandarin (Upp...</string>
+    <string name="mentor3_intro">(Seeking for long terms students only.) My...</string>
+    <string name="profile">Profile</string>
+    <string name="profile_des">Japanese (Native) \nEnglish (Native) \nMandarin (Upper-Intermediate)</string>
+    <string name="message">Message</string>
+    <string name="now">Now</string>
+    <string name="mentorchat1">   Hi, good afternoon. I don’t understand the way to use は, can you explain?</string>
+    <string name="mentorchat2">Sure.</string>
+    <string name="mentorchat_msg">Message</string>
+
+
+    <!--    Community Corner-->
+
+
+</resources>

@@ -1,0 +1,30 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Unchecked state -->
+    <item android:state_selected="false">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="@android:color/transparent" />
+                    <corners android:radius="10dp" />
+                    <size android:width="120dp" android:height="35dp" />
+                    <stroke android:width="2dp" android:color="@color/white_in_green" /> <!-- White border -->
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+
+
+    <!-- Checked state -->
+    <item android:state_selected="true">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/yellow" />
+                    <corners android:radius="10dp" />
+                    <size android:width="120dp" android:height="35dp" />
+                    <stroke android:width="2dp" android:color="@color/white_in_green" /> <!-- White border -->
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

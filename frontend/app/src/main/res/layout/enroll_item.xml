@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/round_corner_green_border"
+    android:orientation="horizontal"
+    android:gravity="center_vertical">
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:src="@drawable/flag_korea"
+        android:layout_marginLeft="15dp"
+        android:id="@+id/flag"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Korea"
+        android:layout_marginLeft="20dp"
+        android:textSize="23dp"
+        android:textColor="@color/primary_color"
+        android:textStyle="bold"
+        android:id="@+id/name"/>
+</LinearLayout>

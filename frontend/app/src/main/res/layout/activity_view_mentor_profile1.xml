@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/viewProfileHeader"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/backButton"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:rotation="180"
+            android:background="@drawable/back_arrow"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"/>
+
+        <TextView
+            android:id="@+id/Profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_gravity="center_vertical"
+            android:text="@string/profile"
+            android:textSize="25sp"
+            style="@style/BoldFont"
+            android:textColor="@color/green"/>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/mentorProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/viewProfileHeader">
+
+        <ImageView
+            android:layout_width="85dp"
+            android:layout_height="85dp"
+            android:id="@+id/mentorPic"
+            android:background="@drawable/mentor1_pic"
+            android:layout_centerHorizontal="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mentorName"
+            android:text="Reba K."
+            style="@style/BoldFont"
+            android:layout_below="@id/mentorPic"
+            android:layout_marginLeft="10dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:textSize="25dp"/>
+
+        <TextView
+            android:id="@+id/profile_des"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Japanese (Native) \n English (Proficient)"
+            android:textColor="@color/light_green"
+            android:textSize="15sp"
+            style="@style/BoldFont"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"
+            android:layout_below="@id/mentorName"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="60dp"
+            android:layout_marginLeft="60dp"
+            android:text="I am Reba, and I bring a wealth of experience to Japanese language mentoring. As a native Japanese speaker, I offer an authentic and immersive learning experience. Additionally, I am proficient in English, ensuring effective communication for learners. Join me on a language-learning journey where I provide guidance and support to help you achieve your goals in both Japanese and English proficiency."
+            android:textColor="@color/black"
+            android:background="@drawable/round_corner_grey_border"
+            android:padding="20dp"
+            android:textSize="15sp"
+            style="@style/CustomFont"
+            android:layout_below="@id/profile_des"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

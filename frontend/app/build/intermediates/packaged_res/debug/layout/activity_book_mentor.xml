@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BookMentorActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/backButton"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:rotation="180"
+            android:background="@drawable/back_arrow"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"/>
+
+        <TextView
+            android:id="@+id/bookMentor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_gravity="center_vertical"
+            android:text="Book Mentor"
+            android:textSize="20sp"
+            style="@style/BoldFont"
+            android:textColor="@color/green"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp">
+
+        <ImageView
+            android:layout_width="85dp"
+            android:layout_height="85dp"
+            android:id="@+id/mentorPic"
+            android:background="@drawable/mentor3_pic"
+            android:layout_centerHorizontal="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mentorName"
+            android:text="Hinako N."
+            style="@style/BoldFont"
+            android:layout_below="@id/mentorPic"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:textSize="20dp"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_corner_white"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp">
+
+        <CalendarView
+            android:id="@+id/calendarView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/confirmBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:text="CONFIRM"
+        style="@style/CustomFont"
+        android:textColor="@color/white"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/login_button_active"
+        android:layout_marginTop="30dp"/>
+</LinearLayout>

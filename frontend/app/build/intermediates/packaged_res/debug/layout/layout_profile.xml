@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="265dp"
+            android:background="@drawable/round_corner_theme_color">
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profile_picture"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:src="@drawable/profile_pic"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.502"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.333" />
+
+            <Button
+                android:id="@+id/edit_btn"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/white_spot"
+                android:drawableTop="@drawable/edit_profile_btn"
+                app:layout_constraintBottom_toBottomOf="@id/profile_picture"
+                app:layout_constraintEnd_toEndOf="@id/profile_picture"/>
+
+
+            <TextView
+                android:id="@+id/username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="username"
+                android:textColor="#fff"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.497"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/profile_picture"
+                app:layout_constraintVertical_bias="0.36" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:text="@string/settings"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/dark_grey"
+            android:layout_marginTop="30dp"/>
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edit_text_background"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <RelativeLayout
+                android:id="@+id/language_setting"
+                android:layout_width="match_parent"
+                android:layout_height="55dp">
+
+                <ImageButton
+                    android:id="@+id/language_logo"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="16dp"
+                    android:background="@drawable/language_logo" />
+
+                <TextView
+                    android:id="@+id/profile_language"
+                    android:layout_width="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:textColor="@color/dark_grey"
+                    android:layout_toEndOf="@id/language_logo"
+                    android:text="@string/language"
+                    android:textSize="17sp" />
+
+                <ImageButton
+                    android:id="@+id/profile_arrow1"
+                    android:layout_width="13dp"
+                    android:layout_height="18dp"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="20dp"
+                    android:background="@drawable/profile_arrow" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_below="@id/language_setting"
+                android:layout_width="match_parent"
+                android:layout_height="55dp">
+
+                <ImageButton
+                    android:id="@+id/noti_logo"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/noti_logo" />
+
+                <TextView
+                    android:id="@+id/profile_notification"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_toEndOf="@id/noti_logo"
+                    android:textColor="@color/dark_grey"
+                    android:layout_centerVertical="true"
+                    android:text="@string/notification"
+                    android:textSize="17sp" />
+
+                <ImageButton
+                    android:id="@+id/profile_arrow2"
+                    android:layout_width="13dp"
+                    android:layout_height="18dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="20dp"
+                    android:background="@drawable/profile_arrow" />
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/signout_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/rectangle_background"
+            android:layout_marginTop="30dp"
+            android:text="@string/sign_out"
+            android:textColor="@color/theme_color"
+            android:layout_marginBottom="20dp"/>
+    </LinearLayout>
+
+</ScrollView>

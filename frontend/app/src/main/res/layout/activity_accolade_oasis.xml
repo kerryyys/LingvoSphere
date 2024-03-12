@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7F7F7"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/topRectangleView"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp">
+
+        <ImageButton
+            android:id="@+id/backButton"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="18dp"
+            android:layout_marginStart="17dp"
+            android:rotation="180"
+            android:background="@drawable/back_arrow"/>
+
+        <TextView
+            android:id="@+id/accoladeOasis"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="Accolade Oasis"
+            android:textColor="@color/green"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/backButton"/>
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_below="@id/topRectangleView">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/topRectangleView"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:paddingBottom="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round_corner_dark_green"
+                android:orientation="vertical"
+                android:paddingBottom="20dp">
+
+                <!-- Mandarin -->
+                <GridLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/mandarin"
+                        style="@style/BoldFont"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/margin_start"
+                        android:layout_marginTop="@dimen/margin_top"
+                        android:text="@string/mandarin"
+                        android:textColor="@color/white_in_green"
+                        android:textSize="@dimen/text_language" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/pot_mandarin"
+                            android:layout_width="70dp"
+                            android:layout_height="90dp"
+                            android:layout_marginStart="@dimen/margin_start_pot"
+                            android:layout_marginTop="@dimen/margin_top_pot"
+                            android:layout_marginEnd="@dimen/margin_end_pot"
+                            android:background="@drawable/pot" />
+
+                        <GridLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/margin_start_grid_badge"
+                            android:layout_marginTop="@dimen/margin_top_small"
+                            android:orientation="vertical">
+
+                            <Button
+                                android:id="@+id/button_bc1"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/beginner"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+
+                            <Button
+                                android:id="@+id/button_bc2"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/intermediate"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+
+                            <Button
+                                android:id="@+id/button_bc3"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/advanced"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+                        </GridLayout>
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <Spinner
+                                android:id="@+id/commentSpinner_bc"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="@dimen/margin_start_edit"
+                                android:layout_marginTop="@dimen/margin_top_edit"
+
+                                android:background="@null"
+                                android:paddingTop="12dp"/>
+
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                </GridLayout>
+
+                <!--        Bahasa Melayu-->
+                <GridLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/margin_bottom"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/melayu"
+                        style="@style/BoldFont"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/margin_start"
+                        android:layout_marginTop="@dimen/margin_top"
+                        android:text="@string/melayu"
+                        android:textColor="@color/white_in_green"
+                        android:textSize="@dimen/text_language" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/pot_bm"
+                            android:layout_width="70dp"
+                            android:layout_height="90dp"
+                            android:layout_marginStart="@dimen/margin_start_pot"
+                            android:layout_marginTop="@dimen/margin_top_pot"
+                            android:layout_marginEnd="@dimen/margin_end_pot"
+                            android:background="@drawable/pot" />
+
+                        <GridLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/margin_start_grid_badge"
+                            android:layout_marginTop="@dimen/margin_top_small"
+                            android:orientation="vertical">
+
+                            <Button
+                                android:id="@+id/button_bm1"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/beginner"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+
+                            <Button
+                                android:id="@+id/button_bm2"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/intermediate"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+
+                            <Button
+                                android:id="@+id/button_bm3"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/advanced"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+                        </GridLayout>
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <Spinner
+                                android:id="@+id/commentSpinner_bm"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="@dimen/margin_start_edit"
+                                android:layout_marginTop="@dimen/margin_top_edit"
+                                android:paddingTop="12dp"
+                                android:background="@null"/>
+
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                </GridLayout>
+
+
+                <!--        Korean-->
+                <GridLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/margin_bottom"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/korean"
+                        style="@style/BoldFont"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/margin_start"
+                        android:layout_marginTop="@dimen/margin_top"
+                        android:text="@string/korean"
+                        android:textColor="@color/white_in_green"
+                        android:textSize="@dimen/text_language" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/pot_korean"
+                            android:layout_width="70dp"
+                            android:layout_height="90dp"
+                            android:layout_marginStart="@dimen/margin_start_pot"
+                            android:layout_marginTop="@dimen/margin_top_pot"
+                            android:layout_marginEnd="@dimen/margin_end_pot"
+                            android:background="@drawable/pot" />
+
+                        <GridLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/margin_start_grid_badge"
+                            android:layout_marginTop="@dimen/margin_top_small"
+                            android:orientation="vertical">
+
+                            <Button
+                                android:id="@+id/button_kr1"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/beginner"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+
+                            <Button
+                                android:id="@+id/button_kr2"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/intermediate"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+
+                            <Button
+                                android:id="@+id/button_kr3"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/advanced"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+                        </GridLayout>
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <Spinner
+                                android:id="@+id/commentSpinner_kr"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="@dimen/margin_start_edit"
+                                android:layout_marginTop="@dimen/margin_top_edit"
+                                android:paddingTop="12dp"
+                                android:background="@null"/>
+
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                </GridLayout>
+
+
+                <!--        Japanese-->
+                <GridLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/margin_bottom"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/japanese"
+                        style="@style/BoldFont"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/margin_start"
+                        android:layout_marginTop="@dimen/margin_top"
+                        android:text="@string/japanese"
+                        android:textColor="@color/white_in_green"
+                        android:textSize="@dimen/text_language" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/pot_japanese"
+                            android:layout_width="70dp"
+                            android:layout_height="90dp"
+                            android:layout_marginStart="@dimen/margin_start_pot"
+                            android:layout_marginTop="@dimen/margin_top_pot"
+                            android:layout_marginEnd="@dimen/margin_end_pot"
+                            android:background="@drawable/pot" />
+
+                        <GridLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/margin_start_grid_badge"
+                            android:layout_marginTop="@dimen/margin_top"
+                            android:orientation="vertical">
+
+                            <Button
+                                android:id="@+id/button_jp1"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/beginner"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+
+                            <Button
+                                android:id="@+id/button_jp2"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/intermediate"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+
+                            <Button
+                                android:id="@+id/button_jp3"
+                                style="@style/BoldFont"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/margin_top_small"
+                                android:layout_marginBottom="@dimen/margin_bottom_small"
+                                android:background="@drawable/custom_badge_button_unchecked"
+                                android:clickable="true"
+                                android:focusable="true"
+                                android:text="@string/advanced"
+                                android:textAlignment="center"
+                                android:textColor="@color/white" />
+                        </GridLayout>
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <Spinner
+                                android:id="@+id/commentSpinner_jp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="@dimen/margin_start_edit"
+                                android:layout_marginTop="@dimen/margin_top_edit"
+                                android:paddingTop="30dp"
+                                android:background="@null"/>
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                </GridLayout>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:text="\@ 2024 Lingvosphere"
+                android:textColor="@color/dark_grey"/>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

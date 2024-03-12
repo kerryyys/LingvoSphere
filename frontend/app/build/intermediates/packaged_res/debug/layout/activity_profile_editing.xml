@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ForgotPassword">
+
+    <View
+        android:id="@+id/topRectangleView"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/primary_color"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/back_btn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="18dp"
+            android:layout_marginStart="17dp"
+            android:background="@drawable/ic_back_white"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="Edit Profile"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/back_btn"/>
+
+    </RelativeLayout>
+
+
+    <ImageView
+        android:id="@+id/profile_picture"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/round_corner_green_border"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="170dp" />
+
+    <TextView
+        android:id="@+id/TVChange_pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select picture"
+        android:textColor="@color/green"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/profile_picture"
+        android:layout_marginTop="10dp"
+        android:clickable="true"/>
+
+
+    <EditText
+        android:id="@+id/ETUsername"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/edit_text_background"
+        android:hint="New username"
+        android:padding="10dp"
+        android:maxLines="1"
+        android:textColorHint="@color/dark_grey"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/TVChange_pic" />
+
+    <Button
+        android:id="@+id/submit_btn"
+        android:layout_width="280dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Submit to change"
+        android:textColor="@color/white"
+        android:background="@drawable/custom_button"
+        android:textAllCaps="false"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ETUsername"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

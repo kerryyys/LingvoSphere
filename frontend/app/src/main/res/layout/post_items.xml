@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="14dp"
+    android:layout_marginBottom="7dp"
+    android:layout_marginTop="7dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    android:background="@drawable/edit_text_background"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profileImage"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="14dp"
+        android:layout_marginBottom="14dp"
+        android:src="@drawable/me_active"
+        app:civ_border_color="#76D1FA"
+        app:civ_border_width="1dp" />
+
+    <LinearLayout
+        android:layout_toRightOf="@id/profileImage"
+        android:layout_toEndOf="@id/profileImage"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="14dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/nameTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="23sp"
+            android:textColor="#5D9F9F"
+            android:text="Username"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/postDescriptionTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/profileImage"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="18dp"
+        android:justificationMode="inter_word"
+        android:background="@android:color/transparent"
+        android:visibility="gone"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/postDescriptionTv"
+        android:background="#FFFFFF"/>
+
+    <LinearLayout
+        android:id="@+id/interactSection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingTop="8dp"
+        android:layout_below="@id/imageView">
+
+
+        <CheckBox
+            android:id="@+id/likeBtn"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="12dp"
+            android:visibility="gone"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="4dp"
+            android:button="@drawable/heart_check"/>
+
+
+        <ImageButton
+            android:id="@+id/commentBtn"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_margin="8dp"
+            android:background="@drawable/cc_comment"/>
+
+        <ImageButton
+            android:id="@+id/shareBtn"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_marginStart="4dp"
+            android:visibility="gone"
+            android:background="@drawable/cc_share"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/timeTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/interactSection"
+        android:text="2 days ago"
+        android:visibility="gone"
+        android:textSize="13sp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"/>
+
+</RelativeLayout>

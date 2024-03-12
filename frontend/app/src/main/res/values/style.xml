@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="CustomFont">
+        <item name="android:fontFamily">@font/notosansmalayalamregular</item>
+    </style>
+    <style name="BoldFont">
+        <item name="android:fontFamily">@font/notosansmalayalambold</item>
+    </style>
+    <style name="LightFont">
+        <item name="android:fontFamily">@font/notosansmalayalamlight</item>
+    </style>
+</resources>

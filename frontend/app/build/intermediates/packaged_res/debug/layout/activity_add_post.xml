@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".AddPostActivity">
+
+    <View
+        android:id="@+id/topRectangleView"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/green"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/closeBtn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="18dp"
+            android:layout_marginStart="17dp"
+            android:background="@drawable/ic_close"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="Add Post"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_toRightOf="@id/closeBtn"/>
+
+        <ImageButton
+            android:id="@+id/nextBtn"
+            android:background="@drawable/ic_done"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="17dp"
+            android:layout_width="30dp"
+            android:layout_height="30dp"/>
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="15dp"
+        android:layout_below="@id/topRectangleView">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/descriptionEt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="18dp"
+                android:layout_marginEnd="18dp"
+                android:paddingTop="20dp"
+                android:paddingBottom="30dp"
+                android:background="@color/white"
+                android:textColor="@color/dark_grey"
+                android:textColorHint="@color/dark_grey"
+                android:hint="Add Something About This Post" />
+
+            <ImageView
+                android:id="@+id/iv_pick_image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/descriptionEt"
+                android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/pick_image_button"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/round_corner_green"
+        android:clickable="true"
+        android:text="Add Image From Gallery"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+</RelativeLayout>

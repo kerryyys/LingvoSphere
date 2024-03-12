@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CommentActivity">
+
+    <View
+        android:id="@+id/topRectangleView"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/closeBtn"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="18dp"
+            android:layout_marginStart="17dp"
+            android:background="@drawable/ic_back"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="Comments"
+            android:textColor="@color/green"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/closeBtn"/>
+
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/commentRecyclerView"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/topRectangleView"
+        android:layout_above="@id/commentLayout" />
+
+    <LinearLayout
+        android:padding="6dp"
+        android:layout_marginStart="17dp"
+        android:id="@+id/commentLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/commentET"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/text_box"
+            android:textColor="@color/dark_grey"
+            android:textColorHint="@color/dark_grey"
+            android:padding="12dp"
+            android:hint="Enter your comment here" />
+
+        <ImageButton
+            android:id="@+id/sendBtn"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/cc_share" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/no_commentTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_centerInParent="true"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/title_no_commentTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="No comments yet"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            android:textColor="@color/light_green"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start the conversation."
+            android:textColor="@color/dark_grey"
+            android:textSize="16sp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

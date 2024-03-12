@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margins -->
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="margin_bottom_small">5dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="margin_top_large">200dp</dimen>
+    <dimen name="margin_top_small">10dp</dimen>
+    <dimen name="margin_start">20dp</dimen>
+    <dimen name="margin_start_grid_badge">10dp</dimen>
+    <dimen name="margin_start_pot">5dp</dimen>
+    <dimen name="margin_top_pot">45dp</dimen>
+    <dimen name="margin_end_pot">10dp</dimen>
+    <dimen name="margin_top_edit">20dp</dimen>
+    <dimen name="margin_start_edit">18dp</dimen>
+    <dimen name="margin_edit_icon">10dp</dimen>
+    <dimen name="margin_top_back_arrow">20dp</dimen>
+    <dimen name="margin_side">10dp</dimen>
+
+    <!--    Padding-->
+    <dimen name="padding_top_edit">8dp</dimen>
+    <dimen name="padding_top_mandarin_grid">80dp</dimen>
+    <!-- Text Sizes -->
+    <dimen name="text_size_large">25sp</dimen>
+    <dimen name="text_language">25sp</dimen>
+    <dimen name="button_text">14sp</dimen>
+    <dimen name="hint_edit">12sp</dimen>
+</resources>

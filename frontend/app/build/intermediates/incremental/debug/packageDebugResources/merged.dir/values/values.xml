@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="comment_options">
+        <item>Having a great progress now!</item>
+        <item>This course is quite stressful for me…</item>
+        <item>The content is so interesting!</item>
+        <item>Simple but useful vocabulary!</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue">#1865F2</color>
+    <color name="dark_green">#018080</color>
+    <color name="dark_grey">#878787</color>
+    <color name="dark_white">#fafafa</color>
+    <color name="green">#38B387</color>
+    <color name="light_green">#A6C6C6</color>
+    <color name="light_grey">#EEEEEE</color>
+    <color name="lingvosphere_icon_background">#FFFFFF</color>
+    <color name="primary_color">#5eb18a</color>
+    <color name="red">#DB1B24</color>
+    <color name="theme_color">#5D9F9F</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_in_green">#ECECEC</color>
+    <color name="yellow">#FFCC00</color>
+    <dimen name="button_text">14sp</dimen>
+    <dimen name="hint_edit">12sp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="margin_bottom_small">5dp</dimen>
+    <dimen name="margin_edit_icon">10dp</dimen>
+    <dimen name="margin_end_pot">10dp</dimen>
+    <dimen name="margin_side">10dp</dimen>
+    <dimen name="margin_start">20dp</dimen>
+    <dimen name="margin_start_edit">18dp</dimen>
+    <dimen name="margin_start_grid_badge">10dp</dimen>
+    <dimen name="margin_start_pot">5dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="margin_top_back_arrow">20dp</dimen>
+    <dimen name="margin_top_edit">20dp</dimen>
+    <dimen name="margin_top_large">200dp</dimen>
+    <dimen name="margin_top_pot">45dp</dimen>
+    <dimen name="margin_top_small">10dp</dimen>
+    <dimen name="padding_top_edit">8dp</dimen>
+    <dimen name="padding_top_mandarin_grid">80dp</dimen>
+    <dimen name="text_language">25sp</dimen>
+    <dimen name="text_size_large">25sp</dimen>
+    <string name="accolade_oasis">Accolade Oasis</string>
+    <string name="advanced">Advanced</string>
+    <string name="ai_des">Your AI Chat Partner.</string>
+    <string name="ai_mentor">AI Mentor</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="app_name">LingvoSphere</string>
+    <string name="apple_tan">Apple Tan</string>
+    <string name="available_mentor">Available Mentor</string>
+    <string name="beginner">Beginner</string>
+    <string name="book_mentor">Book Mentor</string>
+    <string name="choose_file">Choose File</string>
+    <string name="click_continue_to_login_if_your_email_has_already_been_verified_if_you_haven_t_received_any_email_please_click_resend_verification_email">Click continue to login if your email has already been verified. If you haven\'t received any email, please click resend verification email</string>
+    <string name="comment">Leave your comment</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="email">Email</string>
+    <string name="email_verification">Email Verification</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_email_and_we_ll_send_you_a_link_to_get_back_into_your_account">We\'ll send you a link to get back into your account.</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="gcm_defaultSenderId" translatable="false">686320334888</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="google_api_key" translatable="false">AIzaSyCOVAhE34pKXo21bPjMUlFNBFFV4AlJfuk</string>
+    <string name="google_app_id" translatable="false">1:686320334888:android:4b54f9ed6d5072b9e65d1d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCOVAhE34pKXo21bPjMUlFNBFFV4AlJfuk</string>
+    <string name="google_storage_bucket" translatable="false">lingvosphere-61fc7.appspot.com</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="japanese">Japanese</string>
+    <string name="join_lingvosphere_as_a">Join LingvoSphere as a</string>
+    <string name="korean">Korean</string>
+    <string name="language">Language</string>
+    <string name="learner">Learner</string>
+    <string name="log_in_register">Log in / Register</string>
+    <string name="mandarin">Chinese</string>
+    <string name="melayu">Bahasa Melayu</string>
+    <string name="mentor">Mentor</string>
+    <string name="mentor1_des"><![CDATA[Japanese (Native) & English (Proficient)]]></string>
+    <string name="mentor1_intro">I am Reba. I have been teaching Japanese...</string>
+    <string name="mentor1_name">Reba K.</string>
+    <string name="mentor2_des">Japanese (Native), English (Native) ...</string>
+    <string name="mentor2_intro">Hello, My name is Saori and I’m teaching... </string>
+    <string name="mentor2_name">沙織 川.</string>
+    <string name="mentor3_des">Japanese (Native), Mandarin (Upp...</string>
+    <string name="mentor3_intro">(Seeking for long terms students only.) My...</string>
+    <string name="mentor3_name">Hinako N.</string>
+    <string name="mentorchat1">   Hi, good afternoon. I don’t understand the way to use は, can you explain?</string>
+    <string name="mentorchat2">Sure.</string>
+    <string name="mentorchat_msg">Message</string>
+    <string name="mentorship_hub">Mentorship Hub</string>
+    <string name="message">Message</string>
+    <string name="notification">Notification</string>
+    <string name="now">Now</string>
+    <string name="or">Or</string>
+    <string name="password">Password</string>
+    <string name="personalised_learning_n_interactive_exercises_n_cultural_insights">Personalised Learning\n Interactive Exercises\n Cultural Insights</string>
+    <string name="profile">Profile</string>
+    <string name="profile_des">Japanese (Native) \nEnglish (Native) \nMandarin (Upper-Intermediate)</string>
+    <string name="project_id" translatable="false">lingvosphere-61fc7</string>
+    <string name="register">Register</string>
+    <string name="resend_after_1_minute">Resend after 1 minute</string>
+    <string name="send_login_link">Send reset link</string>
+    <string name="settings">Settings</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="supported_format_pdf">Supported format: .pdf</string>
+    <string name="trouble_logging_in">Trouble logging in?</string>
+    <string name="unlock_communication_skills">Unlock Communication Skills:</string>
+    <string name="upload_cert_prove">Upload Cert / Prove</string>
+    <style name="Base.Theme.LingvoSphere" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        
+    </style>
+    <style name="BoldFont">
+        <item name="android:fontFamily">@font/notosansmalayalambold</item>
+    </style>
+    <style name="CustomFont">
+        <item name="android:fontFamily">@font/notosansmalayalamregular</item>
+    </style>
+    <style name="LightFont">
+        <item name="android:fontFamily">@font/notosansmalayalamlight</item>
+    </style>
+    <style name="Theme.LingvoSphere" parent="Base.Theme.LingvoSphere"/>
+</resources>

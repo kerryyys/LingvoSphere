@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/primary_color" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="26dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageButton
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:id="@+id/back_btn"
+                android:layout_marginEnd="18dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginStart="17dp"
+                android:background="@drawable/white_arrow"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/learning_titile"
+                android:text="Learning"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                tools:layout_editor_absoluteX="59dp"
+                tools:layout_editor_absoluteY="29dp" />
+
+
+
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="100dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="30dp"
+            android:background="@drawable/round_corner_grey"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Course Name"
+                android:id="@+id/courseName"
+                android:textAlignment="center"
+                android:layout_marginTop="10dp"
+                android:textSize="25dp"
+                android:textStyle="bold"/>
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="40dp"
+                android:orientation="vertical"
+                android:elevation="4dp"
+                android:background="@drawable/round_corner_white">
+
+                <TextView
+                    android:id="@+id/vocab"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="你 (nǐ)"
+                    android:layout_marginTop="-80dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/primary_color"
+                    android:textSize="50dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/pronounce"
+                    android:text="ni"
+                    android:textSize="30dp"
+                    android:textColor="#bebebe"
+                    app:layout_constraintBottom_toTopOf="@+id/definition"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/vocab" />
+
+                <TextView
+                    android:id="@+id/definition"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-30dp"
+                    android:text="you"
+                    android:textSize="30dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/vocab" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/circle_green_40dp"
+                    android:text="&gt;"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="30dp"
+                    android:layout_marginTop="3dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/definition"
+                    android:id="@+id/next_btn"/>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/learning_indicator"
+                android:text="1/6"
+                android:layout_marginTop="-30dp"
+                android:textAlignment="center"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

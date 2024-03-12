@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/round_corner_grey_border"
+    android:orientation="horizontal"
+    android:gravity="center_vertical">
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:id="@+id/flag"
+        android:src="@drawable/flag_jp"
+        android:layout_marginLeft="15dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Japanese"
+        android:id="@+id/name"
+        android:layout_marginLeft="20dp"
+        android:textSize="23dp"
+        android:textColor="#b6b8ba"
+        android:textStyle="bold"/>
+</LinearLayout>

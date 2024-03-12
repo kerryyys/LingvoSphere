@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    Accolade Oasis Comment Option-->
+    <string-array name="comment_options">
+        <item>Having a great progress now!</item>
+        <item>This course is quite stressful for me…</item>
+        <item>The content is so interesting!</item>
+        <item>Simple but useful vocabulary!</item>
+    </string-array>
+</resources>

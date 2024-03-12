@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686320334888",
+    "project_id": "lingvosphere-61fc7",
+    "storage_bucket": "lingvosphere-61fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686320334888:android:4b54f9ed6d5072b9e65d1d",
+        "android_client_info": {
+          "package_name": "com.lingvosphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOVAhE34pKXo21bPjMUlFNBFFV4AlJfuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

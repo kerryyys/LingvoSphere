@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/mentor_pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/flag_jp"
+        android:layout_marginLeft="15dp"/>
+
+    <TextView
+        android:id="@+id/mentor_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="Hinako N."
+        style="@style/BoldFont"
+        android:layout_toRightOf="@id/mentor_pic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/mentor_pic"
+        android:layout_below="@id/mentor_name"
+        android:text="date"
+        style="@style/CustomFont"
+        android:layout_marginLeft="20dp" />
+</RelativeLayout>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- Available Mentor-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_marginRight="25dp"
+            android:layout_marginLeft="25dp"
+            android:layout_height="400dp"
+            android:orientation="vertical"
+            android:background="@drawable/rectangle_background">
+
+            <TextView
+                android:id="@+id/available_mentor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/available_mentor"
+                style="@style/BoldFont"
+                android:textColor="@color/green"
+                android:textSize="20sp"
+                android:layout_marginTop="15dp"
+                android:layout_marginStart="20dp"/>
+
+            <!-- AI Mentor-->
+            <FrameLayout
+                android:id="@+id/AImentor"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:background="@drawable/rectangle_background"
+                android:backgroundTint="@color/theme_color"
+                android:layout_marginTop="10dp">
+
+                <Button
+                    android:id="@+id/AImentorButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/transparent"/>
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="52dp"
+                    android:background="@drawable/aimentor"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginStart="15dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ai_mentor"
+                    android:textColor="@color/white"
+                    style="@style/BoldFont"
+                    android:textSize="15sp"
+                    android:layout_marginStart="75dp"
+                    android:layout_marginTop="15dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ai_des"
+                    android:textColor="@color/white"
+                    style="@style/CustomFont"
+                    android:textSize="15sp"
+                    android:layout_marginStart="75dp"
+                    android:layout_marginTop="35dp"/>
+
+                <ImageButton
+                    android:id="@+id/aimentor_more"
+                    android:layout_width="12dp"
+                    android:layout_height="15dp"
+                    android:layout_marginStart="295dp"
+                    android:layout_marginTop="75dp"
+                    android:background="@drawable/more_arrow_white"/>
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/rectangle_background"
+                android:backgroundTint="@color/white"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp">
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/transparent"
+                    android:id="@+id/mentor1Btn"/>
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/mentor1_pic"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginStart="15dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mentor1_name"
+                    android:textColor="@color/green"
+                    style="@style/BoldFont"
+                    android:textSize="15sp"
+                    android:layout_marginStart="75dp"
+                    android:layout_marginTop="15dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mentor1_des"
+                    android:textColor="@color/light_green"
+                    android:textSize="12sp"
+                    style="@style/BoldFont"
+                    android:layout_marginStart="75dp"
+                    android:layout_marginTop="35dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mentor1_intro"
+                    android:textColor="@color/black"
+                    style="@style/CustomFont"
+                    android:layout_marginTop="70dp"
+                    android:layout_marginStart="20dp"
+                    android:textSize="11sp"/>
+
+                <ImageButton
+                    android:id="@+id/mentor1_more"
+                    android:layout_width="12dp"
+                    android:layout_height="15dp"
+                    android:layout_marginStart="295dp"
+                    android:layout_marginTop="75dp"
+                    android:background="@drawable/more_arrow_black"/>
+
+            </FrameLayout>
+
+            <!--Mentor 2-->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/rectangle_background"
+                android:backgroundTint="@color/white"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp">
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/transparent"
+                    android:id="@+id/mentor2Btn"/>
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/mentor2_pic"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginStart="15dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mentor2_name"
+                    android:textColor="@color/green"
+                    style="@style/BoldFont"
+                    android:textSize="15sp"
+                    android:layout_marginStart="75dp"
+                    android:layout_marginTop="15dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mentor2_des"
+                    android:textColor="@color/light_green"
+                    android:textSize="12sp"
+                    style="@style/BoldFont"
+                    android:layout_marginStart="75dp"
+                    android:layout_marginTop="35dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mentor2_intro"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="70dp"
+                    android:layout_marginStart="20dp"
+                    style="@style/CustomFont"
+                    android:textSize="11sp"/>
+
+                <ImageButton
+                    android:id="@+id/mentor2_more"
+                    android:layout_width="12dp"
+                    android:layout_height="15dp"
+                    android:layout_marginStart="295dp"
+                    android:layout_marginTop="75dp"
+                    android:background="@drawable/more_arrow_black"/>
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+        <!-- Book Mentor -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_height="205dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/rectangle_background"
+            android:backgroundTint="#E8F4F2"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:id="@+id/bookMentor"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/book_mentor"
+                    style="@style/BoldFont"
+                    android:textColor="@color/green"
+                    android:textSize="20sp"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="20dp"/>
+
+                <ImageButton
+                    android:id="@+id/search"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:background="@drawable/search_icon"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="175dp"/>
+
+            </LinearLayout>
+
+            <FrameLayout
+                android:id="@+id/book_mentor"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_height="130dp"
+                android:background="@drawable/rectangle_background"
+                android:backgroundTint="@color/white"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp">
+
+                <Button
+                    android:id="@+id/bookMentorButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/transparent"/>
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/mentor3_pic"
+                    android:layout_marginTop="18dp"
+                    android:layout_marginStart="15dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mentor3_name"
+                    android:textColor="@color/green"
+                    style="@style/BoldFont"
+                    android:textSize="17sp"
+                    android:layout_marginStart="78dp"
+                    android:layout_marginTop="18dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mentor3_des"
+                    android:textColor="@color/light_green"
+                    android:textSize="13sp"
+                    style="@style/BoldFont"
+                    android:layout_marginLeft="78dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="40dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mentor3_intro"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="82dp"
+                    android:layout_marginStart="23dp"
+                    style="@style/CustomFont"
+                    android:textSize="13sp"/>
+
+                <ImageButton
+                    android:id="@+id/viewProfile"
+                    android:layout_width="12dp"
+                    android:layout_height="15dp"
+                    android:layout_marginStart="295dp"
+                    android:layout_marginTop="100dp"
+                    android:background="@drawable/more_arrow_black"/>
+
+            </FrameLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
+
