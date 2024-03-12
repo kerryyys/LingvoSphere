@@ -1,2 +1,1 @@
-# LingvoSphere_Android
- LingvoSphere Android app
+# LingvoSphere_Fronted
